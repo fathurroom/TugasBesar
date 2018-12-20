@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">TugasBesar</string>
+    <string name="title">Museum Musik</string>
+    <string name="title_alif"> Alif</string>
+    <string name="comment_1">Seni nya sangat kental di museum ini!</string>
+    <string name="title_alfa">Alfa</string>
+    <string name="comment_2">Bagus banget! Apalagi kebersihan di museum ini sangat dijga</string>
+    <string name="title_wayan">Wayan</string>
+    <string name="comment_3">Sejarah yang ditampilkan disini sangat runtut dan lengkap</string>
+    <string name="title_pringgo">Pringgo</string>
+    <string name="comment_4">Menarik sekali di museum ini, banyak yang kita bisa pelajari di tempat ini</string>
+    <string name="title_rufii">Rufi</string>
+    <string name="comment_5">Teringat lagu zaman dulu, sekaligus bisa bernostalgia</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="isidesc">Dikala menyisir satu demi satu rak dan lemari koleksi, ditemui sebagian nama penyanyi, grup vokal dan grup band aku yang masih eksis atau setidaknya nyanyian-nyanyian mereka masih didengarkan sampai sekarang. Sebagian koleksi tergolong cukup langka dan sungguh-sungguh bernilai. Seperti kaset dari tahun 1950-an dan piringan hitam dari tahun 1924. Segala koleksi lawas yang ada masih dalam situasi bagus dan dapat didengarkan.</string>
+    <string name="isidesc1">Museum Musik Indonesia merupakan Satu-satunya museum musik di Indonesia, yang berada di kota Malang, Jawa Timur. Ada lebih dari 17 ribu koleksi yang tersimpan di Museum Musik Indonesia.</string>
+    <string name="isidesc2">Beberapa besar berupa piringan hitam, kaset, CD, VCD, dan dokumentasi lainnya. Genrenya bahkan bermacam-macam mulai dari pop, rock, jazz, latin, nyanyian-nyanyian tempat, dan lain sebagainya.</string>
+    <string name="opini">Opini</string>
+</resources>

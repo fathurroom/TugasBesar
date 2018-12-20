@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Opini"
+        android:textSize="@dimen/title"
+        android:textColor="@color/title"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:id="@+id/txt_title_wahana"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_below="@+id/txt_title_wahana"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp"
+        android:id="@+id/rvWahana"
+        android:layout_width="match_parent"
+        android:layout_height="410dp">
+    </android.support.v7.widget.RecyclerView>
+
+
+
+</RelativeLayout>
